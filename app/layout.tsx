@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "WorkSpace Management",
   description: "Complete workspace management solution",
-  generator: "v0.dev",
+  generator: "workspace.dev",
 }
 
 export default function RootLayout({
